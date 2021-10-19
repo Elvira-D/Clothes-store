@@ -7,6 +7,14 @@
 html {
     //By default, 1 rem is 16 px. With this calculation, 1 rem will equal to 10px
     font-size: 62.5%;
+
+    @include response(md) {
+        font-size: 56.25%;
+    }
+
+    @include response(sm) {
+        font-size: 50%;
+    }
 }
 
 .container {
