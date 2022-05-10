@@ -3,6 +3,7 @@ Clothes- store is a simple website template for a clothes shop containing a head
 
 This is a code along project with a Udemt course from George Lomidze. 
 
-Preview of the page [here](https://loving-ptolemy-7b4186.netlify.app/)
+Preview of the page [here](https://xenodochial-lumiere-14cdf8.netlify.app/)
+
 
 
